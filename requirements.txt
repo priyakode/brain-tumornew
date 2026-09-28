@@ -3,7 +3,7 @@ tensorflow
 keras
 matplotlib
 scikit-learn
-opencv-python
+opencv-python-headless
 scikit-image
 hdf5storage
 jupyter
