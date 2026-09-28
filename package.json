@@ -1,0 +1,21 @@
+{
+  "name": "brain-tumor-segmentation-unet",
+  "version": "1.0.0",
+  "description": "Brain Tumor Segmentation & Detection U-Net Application",
+  "main": "app.py",
+  "scripts": {
+    "start": "streamlit run app.py",
+    "dev": "streamlit run app.py",
+    "app": "streamlit run app.py",
+    "train": "python3 train_model.py --epochs 25"
+  },
+  "keywords": [
+    "brain-tumor-segmentation",
+    "u-net",
+    "pytorch",
+    "streamlit",
+    "deep-learning"
+  ],
+  "author": "",
+  "license": "MIT"
+}

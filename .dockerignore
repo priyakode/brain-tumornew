@@ -1,0 +1,9 @@
+.git
+.github
+__pycache__
+*.pyc
+.ipynb_checkpoints
+brain_tumor_dataset
+*.zip
+.DS_Store
+__MACOSX

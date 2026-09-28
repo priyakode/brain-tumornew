@@ -1,0 +1,5 @@
+[server]
+fileWatcherType = "none"
+headless = true
+maxCachedMessageAge = 100
+enableCORS = false

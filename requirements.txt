@@ -1,0 +1,13 @@
+numpy
+tensorflow
+keras
+matplotlib
+scikit-learn
+opencv-python
+scikit-image
+hdf5storage
+jupyter
+notebook
+torch
+torchvision
+streamlit
